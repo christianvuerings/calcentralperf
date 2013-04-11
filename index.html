@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="calcentralperf">
+  <head>
+    <meta charset="utf-8">
+    <title>CalCentralPerf</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The CalCentral performance over time">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/calcentralperf.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+
+    <script src="js/d3.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.1.4/angular.min.js"></script>
+    <script src="js/calcentralperf.js"></script>
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/">CalCentralPerf</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <p class="lead">The CalCentral performance over time</p>
+
+      <div data-ng-view></div>
+    </div>
+
+    <script type="text/ng-template" id="templates/main.html">
+      <div data-ng-repeat="(url, info) in urls">
+        <h2>{{url}}</h2>
+        {{info | json}}
+      </div>
+    </script>
+
+    <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+  </body>
+</html>
