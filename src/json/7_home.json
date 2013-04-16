@@ -1,4 +1,5 @@
 {
+  "version": "7",
   "log": {
     "version": "1.2",
     "creator": {
@@ -7,22 +8,22 @@
     },
     "pages": [
       {
-        "startedDateTime": "2013-04-15T17:42:37.012Z",
-        "id": "page_16",
+        "startedDateTime": "2013-04-16T19:01:59.453Z",
+        "id": "page_13",
         "title": "https://calcentral.berkeley.edu/dashboard",
         "pageTimings": {
-          "onContentLoad": 241,
-          "onLoad": 878
+          "onContentLoad": 236,
+          "onLoad": 316
         }
       }
     ],
     "entries": [
       {
-        "startedDateTime": "2013-04-15T17:42:37.012Z",
-        "time": 38,
+        "startedDateTime": "2013-04-16T19:01:59.453Z",
+        "time": 36,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/dashboard",
+          "url": "https://calcentral.berkeley.edu/dashboard",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -39,7 +40,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -59,7 +60,7 @@
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -70,41 +71,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 933,
+          "headersSize": 928,
           "bodySize": 0
         },
         "response": {
@@ -114,11 +115,11 @@
           "headers": [
             {
               "name": "X-Runtime",
-              "value": "0.023000"
+              "value": "0.021000"
             },
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:37 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -126,11 +127,11 @@
             },
             {
               "name": "X-Request-Id",
-              "value": "4bd3793b0235b17a9491f1ca0551417e"
+              "value": "a9e5ae594bba4033c07db62f1370bace"
             },
             {
               "name": "ETag",
-              "value": "\"c9bb59e52a315cedf9a585c30caaaa46\""
+              "value": "\"04afb4dc7f984898701ceff5b35cc3c0\""
             },
             {
               "name": "Vary",
@@ -163,9 +164,9 @@
           ],
           "cookies": [],
           "content": {
-            "size": 44688,
+            "size": 44690,
             "mimeType": "text/html",
-            "compression": 34766
+            "compression": 34768
           },
           "redirectURL": "",
           "headersSize": 418,
@@ -175,20 +176,20 @@
         "timings": {
           "blocked": 0,
           "dns": -1,
-          "connect": 3,
-          "send": -2,
-          "wait": 32,
+          "connect": 5,
+          "send": -3,
+          "wait": 28,
           "receive": 2,
-          "ssl": 2
+          "ssl": 3
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.057Z",
-        "time": 27,
+        "startedDateTime": "2013-04-16T19:01:59.492Z",
+        "time": 23,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/assets/application-ed88728a917c60a800de3864e1297a5b.css",
+          "url": "https://calcentral.berkeley.edu/assets/application-ed88728a917c60a800de3864e1297a5b.css",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -205,7 +206,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -221,11 +222,11 @@
             },
             {
               "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -240,41 +241,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 989,
+          "headersSize": 981,
           "bodySize": 0
         },
         "response": {
@@ -284,7 +285,7 @@
           "headers": [
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:37 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -292,7 +293,7 @@
             },
             {
               "name": "Last-Modified",
-              "value": "Sat, 06 Apr 2013 00:01:38 GMT"
+              "value": "Tue, 16 Apr 2013 16:01:05 GMT"
             },
             {
               "name": "Vary",
@@ -323,30 +324,30 @@
           "content": {
             "size": 170798,
             "mimeType": "text/css",
-            "compression": 109028
+            "compression": 108835
           },
           "redirectURL": "",
           "headersSize": 275,
-          "bodySize": 61770
+          "bodySize": 61963
         },
         "cache": {},
         "timings": {
           "blocked": 0,
           "dns": -1,
-          "connect": 4,
-          "send": -3,
+          "connect": 3,
+          "send": -2,
           "wait": 9,
-          "receive": 13,
-          "ssl": 3
+          "receive": 9,
+          "ssl": 2
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.057Z",
+        "startedDateTime": "2013-04-16T19:01:59.492Z",
         "time": 25,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/assets/application-d38cb3292729d82299edc81b68ba6f0d.js",
+          "url": "https://calcentral.berkeley.edu/assets/application-1d77dc433df7cc45b67421f60c5972b3.js",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -363,7 +364,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -379,11 +380,11 @@
             },
             {
               "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -398,41 +399,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 973,
+          "headersSize": 965,
           "bodySize": 0
         },
         "response": {
@@ -442,7 +443,7 @@
           "headers": [
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:37 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -450,7 +451,7 @@
             },
             {
               "name": "Last-Modified",
-              "value": "Fri, 12 Apr 2013 16:10:29 GMT"
+              "value": "Tue, 16 Apr 2013 16:01:05 GMT"
             },
             {
               "name": "Vary",
@@ -481,11 +482,11 @@
           "content": {
             "size": 128687,
             "mimeType": "application/javascript",
-            "compression": 82478
+            "compression": 82743
           },
           "redirectURL": "",
           "headersSize": 289,
-          "bodySize": 46209
+          "bodySize": 45944
         },
         "cache": {},
         "timings": {
@@ -493,14 +494,14 @@
           "dns": -1,
           "connect": 4,
           "send": -3,
-          "wait": 7,
-          "receive": 13,
+          "wait": 6,
+          "receive": 14,
           "ssl": 3
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.254Z",
+        "startedDateTime": "2013-04-16T19:01:59.689Z",
         "time": 0,
         "request": {
           "method": "GET",
@@ -550,14 +551,14 @@
           "receive": 0,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.266Z",
-        "time": 624,
+        "startedDateTime": "2013-04-16T19:01:59.724Z",
+        "time": 45,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/assets/calcentral_logo_pilot_text.png",
+          "url": "https://calcentral.berkeley.edu/assets/calcentral_logo_pilot_text.png",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -574,7 +575,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -590,11 +591,11 @@
             },
             {
               "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -609,41 +610,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 956,
+          "headersSize": 948,
           "bodySize": 0
         },
         "response": {
@@ -653,11 +654,11 @@
           "headers": [
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:37 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Last-Modified",
-              "value": "Sat, 09 Mar 2013 02:26:03 GMT"
+              "value": "Mon, 18 Mar 2013 16:47:10 GMT"
             },
             {
               "name": "Vary",
@@ -688,26 +689,26 @@
           "content": {
             "size": 1205,
             "mimeType": "image/png",
-            "compression": -100
+            "compression": -63
           },
           "redirectURL": "",
           "headersSize": 230,
-          "bodySize": 1305
+          "bodySize": 1268
         },
         "cache": {},
         "timings": {
           "blocked": 0,
           "dns": -1,
-          "connect": 601,
+          "connect": 3,
           "send": -2,
-          "wait": 10,
-          "receive": 12,
+          "wait": 6,
+          "receive": 35,
           "ssl": 2
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.254Z",
+        "startedDateTime": "2013-04-16T19:01:59.689Z",
         "time": 0,
         "request": {
           "method": "GET",
@@ -757,10 +758,10 @@
           "receive": 0,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.254Z",
+        "startedDateTime": "2013-04-16T19:01:59.689Z",
         "time": 0,
         "request": {
           "method": "GET",
@@ -810,10 +811,10 @@
           "receive": 0,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.254Z",
+        "startedDateTime": "2013-04-16T19:01:59.689Z",
         "time": 0,
         "request": {
           "method": "GET",
@@ -863,10 +864,10 @@
           "receive": 0,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.255Z",
+        "startedDateTime": "2013-04-16T19:01:59.690Z",
         "time": 0,
         "request": {
           "method": "GET",
@@ -916,14 +917,14 @@
           "receive": 0,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.170Z",
-        "time": 3576,
+        "startedDateTime": "2013-04-16T19:01:59.637Z",
+        "time": 53,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/api/my/badges",
+          "url": "https://calcentral.berkeley.edu/api/my/badges",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -940,7 +941,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -956,11 +957,11 @@
             },
             {
               "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -975,41 +976,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 962,
+          "headersSize": 954,
           "bodySize": 0
         },
         "response": {
@@ -1019,11 +1020,11 @@
           "headers": [
             {
               "name": "X-Runtime",
-              "value": "3.564000"
+              "value": "0.008000"
             },
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:40 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -1031,11 +1032,11 @@
             },
             {
               "name": "X-Request-Id",
-              "value": "bfdd5fbd2adfa0c7928024ea8e21e664"
+              "value": "c5f2325c89e6382fbbeb7a3adcf2a0ec"
             },
             {
               "name": "ETag",
-              "value": "\"8af554c0f03639619dbf66c6d1d2f1a2\""
+              "value": "\"15352af1b040aa825ff930d447eff9a5\""
             },
             {
               "name": "Vary",
@@ -1081,19 +1082,19 @@
           "blocked": 0,
           "dns": -1,
           "connect": 3,
-          "send": -2,
-          "wait": 3572,
-          "receive": 0,
+          "send": -1,
+          "wait": 13,
+          "receive": 35,
           "ssl": 2
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.189Z",
-        "time": 166,
+        "startedDateTime": "2013-04-16T19:01:59.649Z",
+        "time": 44,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/api/my/status",
+          "url": "https://calcentral.berkeley.edu/api/my/status",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -1110,7 +1111,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -1126,11 +1127,11 @@
             },
             {
               "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -1145,41 +1146,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 962,
+          "headersSize": 954,
           "bodySize": 0
         },
         "response": {
@@ -1189,11 +1190,11 @@
           "headers": [
             {
               "name": "X-Runtime",
-              "value": "0.136000"
+              "value": "0.008000"
             },
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:37 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -1201,11 +1202,11 @@
             },
             {
               "name": "X-Request-Id",
-              "value": "ce73bcb0c4a7fde4d1d11a57c0f3903a"
+              "value": "eabc2f381d25f4f5254c4fe973d802d0"
             },
             {
               "name": "ETag",
-              "value": "\"b55dfba75835053ba1a482f995234d8d\""
+              "value": "\"9606ff64dfb5ecea2fca499c36779547\""
             },
             {
               "name": "Vary",
@@ -1238,202 +1239,32 @@
           ],
           "cookies": [],
           "content": {
-            "size": 906,
+            "size": 930,
             "mimeType": "application/json",
-            "compression": 266
+            "compression": 274
           },
           "redirectURL": "",
           "headersSize": 425,
-          "bodySize": 640
-        },
-        "cache": {},
-        "timings": {
-          "blocked": 0,
-          "dns": -1,
-          "connect": 7,
-          "send": -2,
-          "wait": 157,
-          "receive": 1,
-          "ssl": 2
-        },
-        "pageref": "page_16"
-      },
-      {
-        "startedDateTime": "2013-04-15T17:42:37.219Z",
-        "time": 1915,
-        "request": {
-          "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/api/my/tasks",
-          "httpVersion": "HTTP/1.1",
-          "headers": [
-            {
-              "name": "Pragma",
-              "value": "no-cache"
-            },
-            {
-              "name": "Accept-Charset",
-              "value": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-            },
-            {
-              "name": "Accept-Encoding",
-              "value": "gzip,deflate,sdch"
-            },
-            {
-              "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
-            },
-            {
-              "name": "Accept-Language",
-              "value": "en-US,en;q=0.8"
-            },
-            {
-              "name": "User-Agent",
-              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31"
-            },
-            {
-              "name": "Accept",
-              "value": "application/json, text/plain, */*"
-            },
-            {
-              "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
-            },
-            {
-              "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
-            },
-            {
-              "name": "Connection",
-              "value": "keep-alive"
-            },
-            {
-              "name": "Cache-Control",
-              "value": "no-cache"
-            }
-          ],
-          "queryString": [],
-          "cookies": [
-            {
-              "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            },
-            {
-              "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            },
-            {
-              "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            },
-            {
-              "name": "__utmc",
-              "value": "73142401",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            },
-            {
-              "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            }
-          ],
-          "headersSize": 961,
-          "bodySize": 0
-        },
-        "response": {
-          "status": 200,
-          "statusText": "OK",
-          "httpVersion": "HTTP/1.1",
-          "headers": [
-            {
-              "name": "X-Runtime",
-              "value": "1.875000"
-            },
-            {
-              "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:38 GMT"
-            },
-            {
-              "name": "Content-Encoding",
-              "value": "gzip"
-            },
-            {
-              "name": "X-Request-Id",
-              "value": "18aefbd374aa0bae6ce120cf5a91c544"
-            },
-            {
-              "name": "ETag",
-              "value": "\"13b0a2573a75515594cd87745087b2a1\""
-            },
-            {
-              "name": "Vary",
-              "value": "User-Agent,Accept-Encoding"
-            },
-            {
-              "name": "Content-Type",
-              "value": "application/json;charset=utf-8"
-            },
-            {
-              "name": "Cache-Control",
-              "value": "must-revalidate, private, max-age=0"
-            },
-            {
-              "name": "Transfer-Encoding",
-              "value": "chunked"
-            },
-            {
-              "name": "Connection",
-              "value": "close"
-            },
-            {
-              "name": "X-Rack-Cache",
-              "value": "miss"
-            },
-            {
-              "name": "X-UA-Compatible",
-              "value": "IE=Edge,chrome=1"
-            }
-          ],
-          "cookies": [],
-          "content": {
-            "size": 3958,
-            "mimeType": "application/json",
-            "compression": 3094
-          },
-          "redirectURL": "",
-          "headersSize": 425,
-          "bodySize": 864
+          "bodySize": 656
         },
         "cache": {},
         "timings": {
           "blocked": 0,
           "dns": -1,
           "connect": 3,
-          "send": -1,
-          "wait": 1909,
-          "receive": 1,
+          "send": -2,
+          "wait": 14,
+          "receive": 26,
           "ssl": 2
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.222Z",
-        "time": 966,
+        "startedDateTime": "2013-04-16T19:01:59.664Z",
+        "time": 43,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/api/my/activities",
+          "url": "https://calcentral.berkeley.edu/api/my/tasks",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -1450,7 +1281,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -1466,11 +1297,11 @@
             },
             {
               "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -1485,41 +1316,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 966,
+          "headersSize": 953,
           "bodySize": 0
         },
         "response": {
@@ -1529,11 +1360,11 @@
           "headers": [
             {
               "name": "X-Runtime",
-              "value": "0.938000"
+              "value": "0.018000"
             },
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:38 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -1541,7 +1372,177 @@
             },
             {
               "name": "X-Request-Id",
-              "value": "7b77232f0af4e3e83a56d206803a6d8e"
+              "value": "1aee6a49ecb0a00ddee1e73f544e03b3"
+            },
+            {
+              "name": "ETag",
+              "value": "\"1ec056dafe728f766605a72e3cb4da98\""
+            },
+            {
+              "name": "Vary",
+              "value": "User-Agent,Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json;charset=utf-8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "must-revalidate, private, max-age=0"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Connection",
+              "value": "close"
+            },
+            {
+              "name": "X-Rack-Cache",
+              "value": "miss"
+            },
+            {
+              "name": "X-UA-Compatible",
+              "value": "IE=Edge,chrome=1"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 5099,
+            "mimeType": "application/json",
+            "compression": 3467
+          },
+          "redirectURL": "",
+          "headersSize": 425,
+          "bodySize": 1632
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": 4,
+          "send": -2,
+          "wait": 28,
+          "receive": 9,
+          "ssl": 3
+        },
+        "pageref": "page_13"
+      },
+      {
+        "startedDateTime": "2013-04-16T19:01:59.699Z",
+        "time": 89,
+        "request": {
+          "method": "GET",
+          "url": "https://calcentral.berkeley.edu/api/my/activities",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Accept-Charset",
+              "value": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Host",
+              "value": "calcentral.berkeley.edu"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31"
+            },
+            {
+              "name": "Accept",
+              "value": "application/json, text/plain, */*"
+            },
+            {
+              "name": "Referer",
+              "value": "https://calcentral.berkeley.edu/dashboard"
+            },
+            {
+              "name": "Cookie",
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [
+            {
+              "name": "_calcentral_session",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__utma",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__utmb",
+              "value": "45330614.7.9.1366138896647",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__utmc",
+              "value": "45330614",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__utmz",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 958,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Runtime",
+              "value": "0.025000"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "X-Request-Id",
+              "value": "9f1ec0483c4b949060434d8d293e54bf"
             },
             {
               "name": "ETag",
@@ -1580,200 +1581,30 @@
           "content": {
             "size": 17,
             "mimeType": "application/json",
-            "compression": -360
+            "compression": -397
           },
           "redirectURL": "",
           "headersSize": 425,
-          "bodySize": 377
-        },
-        "cache": {},
-        "timings": {
-          "blocked": 0,
-          "dns": -1,
-          "connect": 5,
-          "send": -4,
-          "wait": 959,
-          "receive": 0,
-          "ssl": 4
-        },
-        "pageref": "page_16"
-      },
-      {
-        "startedDateTime": "2013-04-15T17:42:37.226Z",
-        "time": 679,
-        "request": {
-          "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/api/my/up_next",
-          "httpVersion": "HTTP/1.1",
-          "headers": [
-            {
-              "name": "Pragma",
-              "value": "no-cache"
-            },
-            {
-              "name": "Accept-Charset",
-              "value": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-            },
-            {
-              "name": "Accept-Encoding",
-              "value": "gzip,deflate,sdch"
-            },
-            {
-              "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
-            },
-            {
-              "name": "Accept-Language",
-              "value": "en-US,en;q=0.8"
-            },
-            {
-              "name": "User-Agent",
-              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31"
-            },
-            {
-              "name": "Accept",
-              "value": "application/json, text/plain, */*"
-            },
-            {
-              "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
-            },
-            {
-              "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
-            },
-            {
-              "name": "Connection",
-              "value": "keep-alive"
-            },
-            {
-              "name": "Cache-Control",
-              "value": "no-cache"
-            }
-          ],
-          "queryString": [],
-          "cookies": [
-            {
-              "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            },
-            {
-              "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            },
-            {
-              "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            },
-            {
-              "name": "__utmc",
-              "value": "73142401",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            },
-            {
-              "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
-              "expires": null,
-              "httpOnly": false,
-              "secure": false
-            }
-          ],
-          "headersSize": 963,
-          "bodySize": 0
-        },
-        "response": {
-          "status": 200,
-          "statusText": "OK",
-          "httpVersion": "HTTP/1.1",
-          "headers": [
-            {
-              "name": "X-Runtime",
-              "value": "0.661000"
-            },
-            {
-              "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:37 GMT"
-            },
-            {
-              "name": "Content-Encoding",
-              "value": "gzip"
-            },
-            {
-              "name": "X-Request-Id",
-              "value": "c4f26328ed3922611ba58730ff5cd1f0"
-            },
-            {
-              "name": "ETag",
-              "value": "\"5cae6a59a58fac7406cf1a3f45e24349\""
-            },
-            {
-              "name": "Vary",
-              "value": "User-Agent,Accept-Encoding"
-            },
-            {
-              "name": "Content-Type",
-              "value": "application/json;charset=utf-8"
-            },
-            {
-              "name": "Cache-Control",
-              "value": "must-revalidate, private, max-age=0"
-            },
-            {
-              "name": "Transfer-Encoding",
-              "value": "chunked"
-            },
-            {
-              "name": "Connection",
-              "value": "close"
-            },
-            {
-              "name": "X-Rack-Cache",
-              "value": "miss"
-            },
-            {
-              "name": "X-UA-Compatible",
-              "value": "IE=Edge,chrome=1"
-            }
-          ],
-          "cookies": [],
-          "content": {
-            "size": 3826,
-            "mimeType": "application/json",
-            "compression": 2610
-          },
-          "redirectURL": "",
-          "headersSize": 425,
-          "bodySize": 1216
+          "bodySize": 414
         },
         "cache": {},
         "timings": {
           "blocked": 0,
           "dns": -1,
           "connect": 4,
-          "send": -3,
-          "wait": 672,
-          "receive": 1,
-          "ssl": 3
+          "send": -2,
+          "wait": 43,
+          "receive": 40,
+          "ssl": 2
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.228Z",
-        "time": 623,
+        "startedDateTime": "2013-04-16T19:01:59.699Z",
+        "time": 81,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/api/my/classes",
+          "url": "https://calcentral.berkeley.edu/api/my/up_next",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -1790,7 +1621,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -1806,11 +1637,11 @@
             },
             {
               "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -1825,41 +1656,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 963,
+          "headersSize": 955,
           "bodySize": 0
         },
         "response": {
@@ -1869,11 +1700,11 @@
           "headers": [
             {
               "name": "X-Runtime",
-              "value": "0.603000"
+              "value": "0.026000"
             },
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:37 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -1881,11 +1712,11 @@
             },
             {
               "name": "X-Request-Id",
-              "value": "70d69c939271804e459e30e3e76026b9"
+              "value": "d6a4a917a7133058a17716641a82bced"
             },
             {
               "name": "ETag",
-              "value": "\"7d73f6b5793c92dbe758498cb20275fd\""
+              "value": "\"0bb30ae9e2258ae701ee21c5cb679f70\""
             },
             {
               "name": "Vary",
@@ -1918,9 +1749,179 @@
           ],
           "cookies": [],
           "content": {
-            "size": 620,
+            "size": 525,
             "mimeType": "application/json",
-            "compression": 188
+            "compression": -3
+          },
+          "redirectURL": "",
+          "headersSize": 425,
+          "bodySize": 528
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0,
+          "dns": -1,
+          "connect": 4,
+          "send": -2,
+          "wait": 38,
+          "receive": 37,
+          "ssl": 2
+        },
+        "pageref": "page_13"
+      },
+      {
+        "startedDateTime": "2013-04-16T19:01:59.695Z",
+        "time": 102,
+        "request": {
+          "method": "GET",
+          "url": "https://calcentral.berkeley.edu/api/my/classes",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Accept-Charset",
+              "value": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip,deflate,sdch"
+            },
+            {
+              "name": "Host",
+              "value": "calcentral.berkeley.edu"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.8"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31"
+            },
+            {
+              "name": "Accept",
+              "value": "application/json, text/plain, */*"
+            },
+            {
+              "name": "Referer",
+              "value": "https://calcentral.berkeley.edu/dashboard"
+            },
+            {
+              "name": "Cookie",
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            }
+          ],
+          "queryString": [],
+          "cookies": [
+            {
+              "name": "_calcentral_session",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__utma",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__utmb",
+              "value": "45330614.7.9.1366138896647",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__utmc",
+              "value": "45330614",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            },
+            {
+              "name": "__utmz",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "expires": null,
+              "httpOnly": false,
+              "secure": false
+            }
+          ],
+          "headersSize": 955,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "X-Runtime",
+              "value": "0.055000"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "X-Request-Id",
+              "value": "6e39e5e88377c5253a9a540c6a440aaa"
+            },
+            {
+              "name": "ETag",
+              "value": "\"cbfd07a5d8f97fd6868b1b1b59cf9810\""
+            },
+            {
+              "name": "Vary",
+              "value": "User-Agent,Accept-Encoding"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json;charset=utf-8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "must-revalidate, private, max-age=0"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Connection",
+              "value": "close"
+            },
+            {
+              "name": "X-Rack-Cache",
+              "value": "miss"
+            },
+            {
+              "name": "X-UA-Compatible",
+              "value": "IE=Edge,chrome=1"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 605,
+            "mimeType": "application/json",
+            "compression": 173
           },
           "redirectURL": "",
           "headersSize": 425,
@@ -1930,20 +1931,20 @@
         "timings": {
           "blocked": 0,
           "dns": -1,
-          "connect": 5,
+          "connect": 3,
           "send": -2,
-          "wait": 616,
-          "receive": 1,
+          "wait": 66,
+          "receive": 32,
           "ssl": 2
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.230Z",
-        "time": 988,
+        "startedDateTime": "2013-04-16T19:01:59.700Z",
+        "time": 71,
         "request": {
           "method": "GET",
-          "url": "https://calcentral-qa.berkeley.edu/api/my/groups",
+          "url": "https://calcentral.berkeley.edu/api/my/groups",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -1960,7 +1961,7 @@
             },
             {
               "name": "Host",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "Accept-Language",
@@ -1976,11 +1977,11 @@
             },
             {
               "name": "Referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": "Cookie",
-              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9; __utma=73142401.1013488409.1366047132.1366047132.1366047132.1; __utmb=73142401.13.9.1366047708642; __utmc=73142401; __utmz=73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+              "value": "_calcentral_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb; __utma=45330614.564503598.1366138823.1366138823.1366138823.1; __utmb=45330614.7.9.1366138896647; __utmc=45330614; __utmz=45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
             },
             {
               "name": "Connection",
@@ -1995,41 +1996,41 @@
           "cookies": [
             {
               "name": "_calcentral_session",
-              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3OTBjZTMyNjAzM2EzMDEyMGIxZjdjN2E2OGVhMTllBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXUydmJHUzNQNGJCcjVWenA0NUorTzYzaHc3T0trVmlMTE9TeGJBbUdhQUU9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--312faa261b05da01c86226d7b9d0a76bfeb3baa9",
+              "value": "BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWM2OThmNjBiZDFhYjcxZjIzOWY0NmRjODZmN2M3MGNlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUtXcXBiSmVHZ1RZY0VrVm5VUVpMTS9VN1JqUlZGdmhvZXZvSHVhOUhYWlk9BjsARkkiDHVzZXJfaWQGOwBGSSILOTc4OTY2BjsAVA%3D%3D--0ae14f99c348a26e77993827db26cda7040878fb",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utma",
-              "value": "73142401.1013488409.1366047132.1366047132.1366047132.1",
+              "value": "45330614.564503598.1366138823.1366138823.1366138823.1",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmb",
-              "value": "73142401.13.9.1366047708642",
+              "value": "45330614.7.9.1366138896647",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmc",
-              "value": "73142401",
+              "value": "45330614",
               "expires": null,
               "httpOnly": false,
               "secure": false
             },
             {
               "name": "__utmz",
-              "value": "73142401.1366047132.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+              "value": "45330614.1366138823.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
               "expires": null,
               "httpOnly": false,
               "secure": false
             }
           ],
-          "headersSize": 962,
+          "headersSize": 954,
           "bodySize": 0
         },
         "response": {
@@ -2039,11 +2040,11 @@
           "headers": [
             {
               "name": "X-Runtime",
-              "value": "0.848000"
+              "value": "0.016000"
             },
             {
               "name": "Date",
-              "value": "Mon, 15 Apr 2013 17:42:38 GMT"
+              "value": "Tue, 16 Apr 2013 19:01:59 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -2051,11 +2052,11 @@
             },
             {
               "name": "X-Request-Id",
-              "value": "f01664bb18a2e424a6cff044f5fdc0f4"
+              "value": "9e67da5425ea7524a80562f24d4fe83c"
             },
             {
               "name": "ETag",
-              "value": "\"1f7c15c058fad6a8f9d2b3d101c1765a\""
+              "value": "\"5b2ce69b80b55d6763017df3af59230d\""
             },
             {
               "name": "Vary",
@@ -2088,28 +2089,28 @@
           ],
           "cookies": [],
           "content": {
-            "size": 720,
+            "size": 703,
             "mimeType": "application/json",
-            "compression": 256
+            "compression": 255
           },
           "redirectURL": "",
           "headersSize": 425,
-          "bodySize": 464
+          "bodySize": 448
         },
         "cache": {},
         "timings": {
           "blocked": 0,
           "dns": -1,
-          "connect": 129,
-          "send": -2,
-          "wait": 857,
-          "receive": 0,
-          "ssl": 3
+          "connect": 3,
+          "send": 0,
+          "wait": 32,
+          "receive": 34,
+          "ssl": 1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:37.893Z",
+        "startedDateTime": "2013-04-16T19:01:59.807Z",
         "time": 0,
         "request": {
           "method": "GET",
@@ -2159,10 +2160,10 @@
           "receive": 0,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:38.228Z",
+        "startedDateTime": "2013-04-16T19:01:59.807Z",
         "time": 0,
         "request": {
           "method": "GET",
@@ -2212,11 +2213,11 @@
           "receive": 0,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:39.162Z",
-        "time": 73,
+        "startedDateTime": "2013-04-16T19:02:01.543Z",
+        "time": 27,
         "request": {
           "method": "GET",
           "url": "https://www.google-analytics.com/ga.js",
@@ -2264,7 +2265,7 @@
             },
             {
               "name": "referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": ":scheme",
@@ -2277,7 +2278,7 @@
           ],
           "queryString": [],
           "cookies": [],
-          "headersSize": 512,
+          "headersSize": 509,
           "bodySize": 0
         },
         "response": {
@@ -2287,7 +2288,7 @@
           "headers": [
             {
               "name": "date",
-              "value": "Mon, 15 Apr 2013 15:18:49 GMT"
+              "value": "Tue, 16 Apr 2013 09:17:33 GMT"
             },
             {
               "name": "content-encoding",
@@ -2311,7 +2312,7 @@
             },
             {
               "name": "age",
-              "value": "8630"
+              "value": "35068"
             },
             {
               "name": "vary",
@@ -2327,7 +2328,7 @@
             },
             {
               "name": "expires",
-              "value": "Tue, 16 Apr 2013 03:18:49 GMT"
+              "value": "Tue, 16 Apr 2013 21:17:33 GMT"
             },
             {
               "name": "cache-control",
@@ -2346,30 +2347,30 @@
           "content": {
             "size": 39469,
             "mimeType": "text/javascript",
-            "compression": 39879
+            "compression": 39880
           },
           "redirectURL": "",
-          "headersSize": 410,
-          "bodySize": -410
+          "headersSize": 411,
+          "bodySize": -411
         },
         "cache": {},
         "timings": {
           "blocked": 0,
           "dns": -1,
           "connect": -1,
-          "send": 1,
-          "wait": 22,
-          "receive": 49,
+          "send": 0,
+          "wait": 24,
+          "receive": 2,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       },
       {
-        "startedDateTime": "2013-04-15T17:42:39.263Z",
-        "time": 28,
+        "startedDateTime": "2013-04-16T19:02:01.597Z",
+        "time": 26,
         "request": {
           "method": "GET",
-          "url": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.4.1&utms=14&utmn=173910086&utmhn=calcentral-qa.berkeley.edu&utmcs=UTF-8&utmsr=1920x1200&utmvp=1004x855&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.7%20r700&utmdt=Dashboard%20%7C%20CalCentral&utmhid=1149518091&utmr=-&utmp=%2Fdashboard&utmht=1366047759261&utmac=UA-21809393-2&utmcc=__utma%3D73142401.1013488409.1366047132.1366047132.1366047132.1%3B%2B__utmz%3D73142401.1366047132.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~",
+          "url": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.4.1&utms=8&utmn=1042645875&utmhn=calcentral.berkeley.edu&utmcs=UTF-8&utmsr=1440x900&utmvp=1005x714&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.7%20r700&utmdt=Dashboard%20%7C%20CalCentral&utmhid=822746469&utmr=-&utmp=%2Fdashboard&utmht=1366138921594&utmac=UA-21809393-1&utmcc=__utma%3D45330614.564503598.1366138823.1366138823.1366138823.1%3B%2B__utmz%3D45330614.1366138823.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -2398,7 +2399,7 @@
             },
             {
               "name": ":path",
-              "value": "/__utm.gif?utmwv=5.4.1&utms=14&utmn=173910086&utmhn=calcentral-qa.berkeley.edu&utmcs=UTF-8&utmsr=1920x1200&utmvp=1004x855&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.7%20r700&utmdt=Dashboard%20%7C%20CalCentral&utmhid=1149518091&utmr=-&utmp=%2Fdashboard&utmht=1366047759261&utmac=UA-21809393-2&utmcc=__utma%3D73142401.1013488409.1366047132.1366047132.1366047132.1%3B%2B__utmz%3D73142401.1366047132.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~"
+              "value": "/__utm.gif?utmwv=5.4.1&utms=8&utmn=1042645875&utmhn=calcentral.berkeley.edu&utmcs=UTF-8&utmsr=1440x900&utmvp=1005x714&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.7%20r700&utmdt=Dashboard%20%7C%20CalCentral&utmhid=822746469&utmr=-&utmp=%2Fdashboard&utmht=1366138921594&utmac=UA-21809393-1&utmcc=__utma%3D45330614.564503598.1366138823.1366138823.1366138823.1%3B%2B__utmz%3D45330614.1366138823.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~"
             },
             {
               "name": "accept",
@@ -2414,7 +2415,7 @@
             },
             {
               "name": "referer",
-              "value": "https://calcentral-qa.berkeley.edu/dashboard"
+              "value": "https://calcentral.berkeley.edu/dashboard"
             },
             {
               "name": ":scheme",
@@ -2432,15 +2433,15 @@
             },
             {
               "name": "utms",
-              "value": "14"
+              "value": "8"
             },
             {
               "name": "utmn",
-              "value": "173910086"
+              "value": "1042645875"
             },
             {
               "name": "utmhn",
-              "value": "calcentral-qa.berkeley.edu"
+              "value": "calcentral.berkeley.edu"
             },
             {
               "name": "utmcs",
@@ -2448,11 +2449,11 @@
             },
             {
               "name": "utmsr",
-              "value": "1920x1200"
+              "value": "1440x900"
             },
             {
               "name": "utmvp",
-              "value": "1004x855"
+              "value": "1005x714"
             },
             {
               "name": "utmsc",
@@ -2476,7 +2477,7 @@
             },
             {
               "name": "utmhid",
-              "value": "1149518091"
+              "value": "822746469"
             },
             {
               "name": "utmr",
@@ -2488,15 +2489,15 @@
             },
             {
               "name": "utmht",
-              "value": "1366047759261"
+              "value": "1366138921594"
             },
             {
               "name": "utmac",
-              "value": "UA-21809393-2"
+              "value": "UA-21809393-1"
             },
             {
               "name": "utmcc",
-              "value": "__utma%3D73142401.1013488409.1366047132.1366047132.1366047132.1%3B%2B__utmz%3D73142401.1366047132.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B"
+              "value": "__utma%3D45330614.564503598.1366138823.1366138823.1366138823.1%3B%2B__utmz%3D45330614.1366138823.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B"
             },
             {
               "name": "utmu",
@@ -2504,7 +2505,7 @@
             }
           ],
           "cookies": [],
-          "headersSize": 1434,
+          "headersSize": 1419,
           "bodySize": 0
         },
         "response": {
@@ -2518,7 +2519,7 @@
             },
             {
               "name": "date",
-              "value": "Fri, 12 Apr 2013 03:48:00 GMT"
+              "value": "Thu, 11 Apr 2013 14:29:52 GMT"
             },
             {
               "name": "x-content-type-options",
@@ -2538,7 +2539,7 @@
             },
             {
               "name": "age",
-              "value": "309279"
+              "value": "448329"
             },
             {
               "name": "content-type",
@@ -2576,12 +2577,12 @@
           "blocked": 0,
           "dns": -1,
           "connect": -1,
-          "send": 1,
-          "wait": 26,
-          "receive": 0,
+          "send": 0,
+          "wait": 24,
+          "receive": 1,
           "ssl": -1
         },
-        "pageref": "page_16"
+        "pageref": "page_13"
       }
     ]
   }

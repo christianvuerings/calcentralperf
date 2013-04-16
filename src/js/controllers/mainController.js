@@ -78,6 +78,7 @@
           $scope.urls[title] = [];
         }
         $scope.urls[title].push({
+          version: element.version,
           date: firstpage.startedDateTime,
           sizes: calculateSizes(log.entries)
         });
