@@ -96,7 +96,6 @@
           .append("text")
             .attr("y", 40)
             .attr("dx", width/2)
-            .style("text-anchor", "middle")
             .text("Version");
 
         svg.append("g")
