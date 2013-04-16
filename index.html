@@ -47,9 +47,10 @@
     </div>
 
     <script type="text/ng-template" id="templates/main.html">
-      <div data-ng-repeat="(url, info) in urls">
+      <div data-ng-repeat="(url, info) in urls" data-ng-controller="graphController">
         <h2>{{url}}</h2>
         {{info | json}}
+        {{graph}}
       </div>
     </script>
 

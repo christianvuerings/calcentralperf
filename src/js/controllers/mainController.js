@@ -66,7 +66,6 @@
           console.log(element);
         }
       });
-      console.log(sizes);
       return sizes;
     };
 
