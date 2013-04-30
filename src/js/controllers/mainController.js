@@ -83,6 +83,7 @@
           sizes: calculateSizes(log.entries)
         });
       });
+      console.log($scope.urls);
     };
 
     $http.get('json/combined.json').success(parseData);

@@ -16,7 +16,7 @@
           width = 960 - margin.left - margin.right,
           height = 500 - margin.top - margin.bottom;
 
-      var x = d3.scale.ordinal()
+      var x = d3.scale.linear()
           .range([0, width]);
 
       var y = d3.scale.linear()
@@ -26,6 +26,7 @@
 
       var xAxis = d3.svg.axis()
           .scale(x)
+          .tickValues(data.map(function(element){return element.version;}))
           .orient("bottom");
 
       var yAxis = d3.svg.axis()
@@ -52,7 +53,6 @@
         });
 
         var sizes = color.domain().map(function(name) {
-
           return {
             name: name,
             values: data.map(function(d) {
@@ -61,6 +61,9 @@
           };
         });
 
+        /**
+         * Legend
+         */
         var legend = svg.append("svg")
             .attr("class", "legend")
             .attr("width", 70 * 2)

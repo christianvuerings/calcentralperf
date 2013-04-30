@@ -33,7 +33,7 @@ module.exports = function(grunt) {
     watch: {
       scripts: {
         files: ['**/*.js', '**/*.html', '**/*.json'],
-        tasks: ['jshint', 'concat'],
+        tasks: ['concat'],
         options: {
           nospawn: true
         }
