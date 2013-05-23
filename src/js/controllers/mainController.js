@@ -24,14 +24,14 @@
     };
 
     var calculateSizes = function(entries) {
-      var sizes = initializeSizes(['javascript', 'images', 'datauri', 'css', 'html', 'json']);
+      var sizes = initializeSizes(['javascript', 'images', 'datauri', 'css', 'html', 'json', 'total']);
 
       entries.forEach(function(element) {
         var content = element.response.content;
         var mimetype = content.mimeType;
         var testImageType = 'image/';
         var testDataUrl = 'data:image';
-        //element.request.url
+
         if (mimetype === 'text/javascript' || mimetype === 'application/javascript') {
           sizes.javascript.amount++;
           sizes.javascript.size += content.size;
@@ -65,6 +65,11 @@
         } else {
           console.log(element);
         }
+
+        // Add to the total amount
+        sizes.total.amount++;
+        sizes.total.size += content.size;
+        sizes.total.content += content.size-content.compression;
       });
       return sizes;
     };
@@ -83,7 +88,6 @@
           sizes: calculateSizes(log.entries)
         });
       });
-      console.log($scope.urls);
     };
 
     $http.get('json/combined.json').success(parseData);
