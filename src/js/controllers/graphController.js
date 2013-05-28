@@ -132,7 +132,16 @@
 
     var data = [];
     $scope.graph = '';
-    angular.forEach($scope.info, function(info) {
+
+    var map = $scope.info.map(function(element) {
+      element.version = parseInt(element.version, 10);
+      return element;
+    });
+    map = map.sort(function(a, b) {
+      return a.version - b.version;
+    });
+
+    map.forEach(function(info) {
       data.push(info);
     });
     generateGraph(data, $scope.url);
